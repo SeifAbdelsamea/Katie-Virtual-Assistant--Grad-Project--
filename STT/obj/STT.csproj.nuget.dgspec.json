@@ -38,9 +38,17 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Google.Apis.Calendar.v3": {
+              "target": "Package",
+              "version": "[1.56.0.2590, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             },
             "Xam.Plugins.TextToSpeech": {
               "target": "Package",

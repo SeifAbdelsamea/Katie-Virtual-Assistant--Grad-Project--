@@ -3,6 +3,11 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "STT.dll" comes first in this list. */
 		"STT.dll",
+		"Google.Apis.Auth.dll",
+		"Google.Apis.Auth.PlatformServices.dll",
+		"Google.Apis.Calendar.v3.dll",
+		"Google.Apis.Core.dll",
+		"Google.Apis.dll",
 		"Newtonsoft.Json.dll",
 		"Plugin.TextToSpeech.dll",
 		"Xamarin.AndroidX.Activity.dll",

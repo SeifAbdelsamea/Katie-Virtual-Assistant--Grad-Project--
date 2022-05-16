@@ -363,3 +363,12 @@ C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\System.Web.Servi
 C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\System.Web.Services.pdb
 C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\System.Xml.Linq.dll
 C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Auth.dll
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Auth.pdb
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Calendar.v3.dll
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Calendar.v3.pdb
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Core.dll
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.Core.pdb
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.dll
+C:\Users\Seif\source\repos\STT\STT\obj\Debug\110\android\assets\Google.Apis.pdb
