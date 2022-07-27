@@ -42,9 +42,21 @@
               "target": "Package",
               "version": "[1.56.0.2590, )"
             },
+            "Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.3.0, )"
             },
             "System.Net.Http": {
               "target": "Package",

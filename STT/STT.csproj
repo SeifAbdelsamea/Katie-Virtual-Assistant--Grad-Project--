@@ -65,6 +65,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calories.cs" />
     <Compile Include="GoogleCalendar.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Movie.cs" />
@@ -109,8 +110,17 @@
     <PackageReference Include="Google.Apis.Calendar.v3">
       <Version>1.56.0.2590</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring">
+      <Version>3.1.0</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime">
+      <Version>3.0.0</Version>
+    </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>13.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="RestSharp">
+      <Version>107.3.0</Version>
     </PackageReference>
     <PackageReference Include="System.Net.Http">
       <Version>4.3.4</Version>

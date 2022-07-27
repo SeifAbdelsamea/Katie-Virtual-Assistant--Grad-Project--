@@ -1,0 +1,16 @@
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\language-understanding-quickstart.exe
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\language-understanding-quickstart.deps.json
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\language-understanding-quickstart.runtimeconfig.json
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\language-understanding-quickstart.runtimeconfig.dev.json
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\language-understanding-quickstart.dll
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\ref\language-understanding-quickstart.dll
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\bin\Debug\net5.0\language-understanding-quickstart.pdb
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.csproj.AssemblyReference.cache
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.AssemblyInfoInputs.cache
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.AssemblyInfo.cs
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.csproj.CoreCompileInputs.cache
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.dll
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\ref\language-understanding-quickstart.dll
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.pdb
+C:\Users\Seif\source\repos\STT\language-understanding-quickstart\obj\Debug\net5.0\language-understanding-quickstart.genruntimeconfig.cache
