@@ -604,11 +604,11 @@ namespace STT
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Get,
-                RequestUri = new Uri("https://newkatva.cognitiveservices.azure.com/luis/prediction/v3.0/apps/9a40e63b-7c4b-46ad-ae00-0d540c39816e/slots/production/predict?verbose=true&show-all-intents=true&log=true&subscription-key=4b8d14335b254985a1a8f64d29308386&query=" + text),
+                RequestUri = new Uri("https://newkatva.cognitiveservices.azure.com/luis/prediction/v3.0/apps/9a40e63b-7c4b-46ad-ae00-0d540c39816e/slots/production/predict?verbose=true&show-all-intents=true&log=true&subscription-key="key"query=" + text),
                 Headers =
                 {
                     { "X-RapidAPI-Host", "https://newkatva-authoring.cognitiveservices.azure.com/" },
-                    { "X-RapidAPI-Key", "5acc96d63f8749b294f9111dd177fa5e" },
+                    { "X-RapidAPI-Key", "key" },
                 },
             };
 
